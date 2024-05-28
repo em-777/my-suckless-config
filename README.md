@@ -8,4 +8,6 @@ libxinerama-dev
 libxft-dev
 libx11-xcb-dev
 libxcb-res0-dev
+libharfbuzz-dev
+libxrandr-dev
 ```
